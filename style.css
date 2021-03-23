@@ -1,0 +1,89 @@
+/* CSS files add styling rules to your content */
+
+body {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  font-family: Quicksand, helvetica, arial, sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  margin: 2em;
+  background-color: #e1d9c7;
+  color: #515151; 
+}
+
+h1 {
+  font-family: Quicksand, helvetica, arial, sans-serif;
+  font-weight: 500;
+  font-size: 50px;
+  color: #515151;
+  text-transform: uppercase;
+  text-align: center;
+  padding: 5px;
+}
+
+div {
+  padding: 15px;
+}
+
+button {
+  padding: 10px;
+  border-radius: 10px;
+  border: none;
+  color: #515151;
+  font-family: Quicksand, sans-serif;
+}
+
+button:hover {
+  box-shadow:0 11px 15px 0 rgba(0, 0, 0, 0.1), 0 9px 46px 8px rgba(0, 0, 0, 0.06), 0 24px 38px 3px rgba(0, 0, 0, 0.07);
+}
+
+#startBtn:hover {
+  background: lightgreen;
+}
+
+#stopBtn:hover {
+  background: #ff7f7f;
+}
+
+#gameButtonArea > button {
+  width: 200px;
+  height: 200px;
+  margin: 2px;
+}
+
+#button1 {
+  background: lightgreen
+}
+
+#button1:active, #button1.lit {
+  background: #03c03c;
+}
+
+#button2 {
+  background: lightblue
+}
+
+#button2:active, #button2.lit {
+  background: #779ecb;
+}
+
+#button3 {
+  background: pink
+}
+
+#button3:active, #button3.lit {
+  background: #e75480;
+}
+
+#button4 {
+  background: #fdfd96 
+}
+
+#button4:active, #button4.lit {
+  background: #d0c722;
+}
+
+.hidden {
+  display: none; 
+}
