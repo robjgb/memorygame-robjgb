@@ -41,7 +41,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<img src="http://g.recordit.co/0J0cD5bR0U.gif" width=250><br>
+![] <img src="http://g.recordit.co/0J0cD5bR0U.gif" width=1000><br>
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
