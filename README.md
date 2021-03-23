@@ -1,10 +1,10 @@
 # Pre-work - *Memory Game*
 
-Memory Game is a Light & Sound Memory game to apply for CodePath's SITE Program. 
+**Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
-Submitted by: Robert Balatbat
+Submitted by: **Robert Balatbat**
 
-Time spent: 6 hours spent in total
+Time spent: **6 hours** spent in total
 
 Link to project: Live site: https://memory-game-robjgb.glitch.me/ Code: https://glitch.com/edit/#!/memory-game-robjgb
 
@@ -41,7 +41,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![] <img src="http://g.recordit.co/0J0cD5bR0U.gif" width=1000><br>
+<img src="http://g.recordit.co/0J0cD5bR0U.gif" width=1000><br>
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
