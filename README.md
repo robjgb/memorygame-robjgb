@@ -1,4 +1,4 @@
-# Pre-work - *Memory Game*
+# *Memory Game*
 
 **Memory Game** is a Light & Sound Memory game. 
 
